@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marga Ku</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="tambah_produk">Tambah Produk</string>
+    <string name="deskripsi_barang">Deskripsi Barang</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="harga">Harga</string>
+    <string name="tambah">Tambah</string>
+</resources>
